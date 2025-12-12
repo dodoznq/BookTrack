@@ -9,13 +9,10 @@ Bu dosya, customtkinterda kullandığı için main.py'a göre yapımı daha zord
 
 # Q/A
 Q: Bu proje nerede işimize yarayacak?
-
 A: Bu proje kitaplarınızın kaç sayfa okunduğunu ve kaç sayfa kaldığı hakında bilgiler verir. Bunları kaydederek size kitap okumanız hakkında özet çıkarmanıza olanak tanır.
--------------------------------
+
 Q: Açık kaynak kodu ile bu projeyi nasıl kendim yapabilirim?
-
 A: main.py dosyasını indirin. İçini kurcalayın ve mantığını anlamaya çalışın. Sonra PyCharm aracılığıyla kendinize bir dosya açıp oradan bunu yapmayı deneyebilirsiniz. Zorlandığınız kısımlarda main.py'a bakabilirsiniz.
--------------------------------
-Q: Bu projeye başka neler eklemeyi düşünüyorsunuz?
 
+Q: Bu projeye başka neler eklemeyi düşünüyorsunuz?
 A: Tabii ki bu bir pre-version olduğu için şimdi söyleyebileceklerimiz yapay zeka ile size kitap önerme, bu hafta ne kadar okuduğunuzu görme, okuma hakkında yardım etme, okuma düzeninizi geliştirme gibi bu yönlere odaklı bir proje yapmayı hedefliyoruz.
